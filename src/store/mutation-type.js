@@ -1,0 +1,1 @@
+export const RECEIVE_DIFF = 'RECEIVE_DIFF' // 对比
